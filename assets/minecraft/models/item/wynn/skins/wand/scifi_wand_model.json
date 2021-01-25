@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "texture": "wynn/weaponskins/wand/scifi_wand_texture",
-    "scifi_wand_glow_animation_texture": "wynn/weaponskins/wand/scifi_wand_glow_animation_texture"
+    "texture": "skins/wand/scifi_wand_texture",
+    "scifi_wand_glow_animation_texture": "skins/wand/scifi_wand_glow_animation_texture"
 },
 "elements": [ 
 {

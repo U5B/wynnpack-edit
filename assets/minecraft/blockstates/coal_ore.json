@@ -2,7 +2,7 @@
     "variants": {
         "normal": [
 		{ "model": "coal_ore" },
-		{ "model": "coal_ore1" }
+		{ "model": "variants/coal_ore_0" }
 		]
     }
 }

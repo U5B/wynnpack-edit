@@ -1,11 +1,11 @@
 {    
 	"parent": "block/block",
 	"textures": {
-		"particle": "blocks/red_sandstone_top",
+		"particle": "blocks/red_sandstone_normal",
         "top": "blocks/red_sandstone_top",
         "side1": "blocks/red_sandstone_carved",
 		"bottom": "blocks/red_sandstone_bottom",
-		"side2": "blocks/red_sandstone_carved2"
+		"side2": "block_variants/chiseled_red_sandstone_0"
     },
 	"elements": [
         {   "from": [ 0, 0, 0 ],

@@ -1,10 +1,8 @@
 {
 	"__comment": "Designed by Bemacized with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/e_texture",
-		"orb_ani": "wynn/weapons/wand/orb_anim",
-		"mesh_atlas": "wynn/weapons/wand/wand_frost"
+		"orb_ani": "skins/wand/orb_anim",
+		"mesh_atlas": "skins/wand/wand_frost"
 	},
 	"elements": [
 		{

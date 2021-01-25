@@ -2,10 +2,10 @@
     "variants": {
         "normal": [
 		{ "model": "tall_grass" },
-		{ "model": "tall_grass_small" },
-		{ "model": "tall_grass_medium" },
-		{ "model": "tall_grass_tall" },
-		{ "model": "tall_grass_tallest" }
+		{ "model": "variants/grass_0" },
+		{ "model": "variants/grass_1" },
+		{ "model": "variants/grass_2" },
+		{ "model": "variants/grass_3" }
 		]
     }
 }

@@ -1,49 +1,41 @@
 {
-    "elements": [
-        {
-            "from": [ -16, -16, 31 ],
-            "to": [ 32, 32, 32 ],
+	"credit": "Made by zeldahuman with Blockbench - https://blockbench.net",
+	"gui_light": "front",
+	"elements": [
+		{
+			"from": [-16, -16, 8],
+			"to": [32, 32, 8.1],
 			"shade": false,
-            "faces": {
-                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
-            }
-        }
-    ],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, -12.5]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	],
 	"display": {
-	    "gui": {
-	        "rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, -70 ],
-	        "scale": [ 3, 3, 0 ]
-	    },
-	    "ground": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "firstperson_righthand": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "firstperson_lefthand": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "thirdperson_righthand": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "thirdperson_lefthand": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "fixed": {
-	    	"rotation": [ 0, 0, 0 ],
-	    	"translation": [ 0, 0, -1 ],
-	        "scale": [ 2, 2, 2.05 ]
-	    }
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"translation": [0, 0, -15],
+			"scale": [3, 3, 0]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [2, 2, 2]
+		}
 	}
 }

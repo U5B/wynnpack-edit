@@ -109,6 +109,50 @@
         "model":"item/wynn/shaman/relic_multi_c"
 		},
 		{
+        "predicate": { "damage": 0.2025 },
+        "model":"item/wynn/mob_totem"
+		},
+		{
+        "predicate": { "damage": 0.21 },
+        "model":"item/wynn/shaman_summon"
+		},
+		{
+        "predicate": { "damage": 0.2175 },
+        "model":"item/wynn/skyseer_summon"
+		},
+		{
+        "predicate": { "damage": 0.225 },
+        "model":"item/wynn/loot/dungeon_key"
+		},
+		{
+        "predicate": { "damage": 0.2325 },
+        "model":"item/wynn/loot/rune_az"
+		},
+		{
+        "predicate": { "damage": 0.24 },
+        "model":"item/wynn/loot/rune_ek"
+		},
+		{
+        "predicate": { "damage": 0.2475 },
+        "model":"item/wynn/loot/rune_nii"
+		},
+		{
+        "predicate": { "damage": 0.255 },
+        "model":"item/wynn/loot/rune_tol"
+		},
+		{
+        "predicate": { "damage": 0.2625 },
+        "model":"item/wynn/loot/rune_uth"
+		},
+		{
+        "predicate": { "damage": 0.27 },
+        "model":"item/wynn/shield"
+		},
+		{
+        "predicate": { "damage": 0.2775 },
+        "model":"item/stone_shovel"
+		},
+		{
         "predicate": { "damaged": 1 },
         "model":"item/barrier"
 		}

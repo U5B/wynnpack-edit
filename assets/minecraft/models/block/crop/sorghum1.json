@@ -1,7 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "wynn/flora/p_sorghum",
+        "particle": "wynn/flora/particle_3",
 		"crop": "wynn/flora/crops_sorghum"
     },
     "elements": [

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "wynn/meals/steamed"
+        "layer0": "wynn/economy/meals/steamed"
     }
 }

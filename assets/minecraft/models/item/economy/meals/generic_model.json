@@ -1,8 +1,8 @@
 {
 	"credit": "Made by zeldahuman with Blockbench - https://blockbench.net",
 	"textures": {
-		"0": "wynn/meals/generic_plate",
-		"1": "wynn/meals/generic_meat"
+		"0": "wynn/economy/meals/generic_plate",
+		"1": "wynn/economy/meals/generic_meat"
 	},
 	"elements": [
 		{
@@ -94,7 +94,6 @@
 			"to": [16, 7, -1.5],
 			"rotation": {"angle": -45, "axis": "y", "origin": [15, 5.9, 0.5]},
 			"faces": {
-				"north": {"uv": [0, 0, 2, 2], "texture": "#missing"},
 				"east": {"uv": [11, 2.5, 12.5, 3.5], "texture": "#1"},
 				"west": {"uv": [10, 2.5, 11.5, 3.5], "texture": "#1"},
 				"up": {"uv": [8.5, 1, 9.5, 2.5], "texture": "#1"},
@@ -108,7 +107,6 @@
 			"faces": {
 				"north": {"uv": [8, 3.5, 11, 6.5], "texture": "#1"},
 				"east": {"uv": [12.5, 3.5, 11, 6.5], "texture": "#1"},
-				"south": {"uv": [0, 0, 6, 6], "texture": "#missing"},
 				"west": {"uv": [11, 3.5, 12.5, 6.5], "texture": "#1"},
 				"up": {"uv": [8, 6.5, 11, 8], "texture": "#1"},
 				"down": {"uv": [8, 8, 11, 6.5], "texture": "#1"}
@@ -123,13 +121,12 @@
 				"east": {"uv": [4, 4, 0, 8], "texture": "#1"},
 				"south": {"uv": [4.5, 4, 7.5, 8], "texture": "#1"},
 				"west": {"uv": [0, 4, 4, 8], "texture": "#1"},
-				"up": {"uv": [4.5, 0, 7.5, 4], "texture": "#1"},
-				"down": {"uv": [0, 0, 6, 8], "texture": "#missing"}
+				"up": {"uv": [4.5, 0, 7.5, 4], "texture": "#1"}
 			}
 		},
 		{
 			"from": [11, 2, 1.5],
-			"to": [19, 9, 9.5],
+			"to": [19, 9, 9],
 			"rotation": {"angle": -45, "axis": "y", "origin": [15, 5.9, 0.5]},
 			"faces": {
 				"north": {"uv": [0, 0.5, 4, 4], "texture": "#1"},
@@ -172,8 +169,8 @@
 				"east": {"uv": [0, 14, 6, 14.5], "texture": "#0"},
 				"south": {"uv": [4.5, 14.5, 9.5, 15], "texture": "#0"},
 				"west": {"uv": [0, 14.5, 6, 15], "texture": "#0"},
-				"up": {"uv": [0, 9.5, 6, 14.5], "texture": "#0", "rotation": 90},
-				"down": {"uv": [0, 9.5, 6, 14.5], "texture": "#0", "rotation": 90}
+				"up": {"uv": [0, 9.5, 6, 14.5], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 9.5, 6, 14.5], "rotation": 90, "texture": "#0"}
 			}
 		},
 		{
@@ -281,92 +278,67 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [0.75, 0.75, 0.75],
 			"rotation": [90, 0, 0],
-			"translation": [-6, -2, 10]
+			"translation": [-6, -2, 10],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"thirdperson_lefthand": {
-			"scale": [0.4, 0.4, 0.4],
 			"rotation": [45, 90, 0],
-			"translation": [-2, 4.5, 1]
+			"translation": [-2, 4.5, 1],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_righthand": {
-			"scale": [0.8, 0.8, 0.8],
 			"rotation": [0, -90, 0],
-			"translation": [2.5, 3, -2]
+			"translation": [2.5, 3, -2],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_lefthand": {
-			"scale": [0.8, 0.8, 0.8],
 			"rotation": [0, -90, 0],
-			"translation": [2.5, 3, -2]
+			"translation": [2.5, 3, -2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"head": {
 			"translation": [0, -16, 0],
 			"scale": [0.9, 0.9, 0.9]
 		},
-		"ground": {
-			"scale": [0.5, 0.5, 0.5],
-			"translation": [0, 1, 0]
-		},
 		"fixed": {
-			"scale": [0.65, 0.65, 0.65],
 			"rotation": [0, -90, 0],
-			"translation": [0, 0, -4.5]
-		},
-		"gui": {
-			"scale": [0.6, 0.6, 0.6],
-			"rotation": [30, 0, 0]
+			"translation": [0, 0, -4.5],
+			"scale": [0.65, 0.65, 0.65]
 		}
 	},
 	"groups": [0,
 		{
 			"name": "plate",
-			"isOpen": false,
-			"shade": true,
-			"display": {
-				"visibility": true,
-				"autouv": true
-			},
+			"origin": [8, 8, 8],
 			"children": [1, 2, 3, 4, 5]
 		},
 		{
 			"name": "meat",
-			"isOpen": false,
-			"shade": true,
-			"display": {
-				"visibility": true,
-				"autouv": true
-			},
+			"origin": [8, 8, 8],
 			"children": [6, 7, 8, 9, 10]
 		},
 		{
 			"name": "cutting board",
-			"isOpen": true,
-			"shade": true,
-			"display": {
-				"visibility": true,
-				"autouv": true
-			},
+			"origin": [8, 8, 8],
 			"children": [11, 12, 13]
 		},
 		{
 			"name": "skewer",
-			"isOpen": false,
-			"shade": true,
-			"display": {
-				"visibility": true,
-				"autouv": true
-			},
+			"origin": [8, 8, 8],
 			"children": [14, 15, 16, 17]
 		},
 		{
 			"name": "skewer",
-			"isOpen": false,
-			"shade": true,
-			"display": {
-				"visibility": true,
-				"autouv": true
-			},
+			"origin": [8, 8, 8],
 			"children": [18, 19, 20, 21]
 		}
 	]

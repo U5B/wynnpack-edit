@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "texture": "wynn/weaponskins/wand/steampunk_wand_texture",
-    "steampunk_wand_clock_animation_texture": "wynn/weaponskins/wand/steampunk_wand_clock_animation_texture"
+    "texture": "skins/wand/steampunk_wand_texture",
+    "steampunk_wand_clock_animation_texture": "skins/wand/steampunk_wand_clock_animation_texture"
 },
 "elements": [ 
 {

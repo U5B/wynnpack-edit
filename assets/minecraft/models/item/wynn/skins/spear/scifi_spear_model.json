@@ -1,9 +1,9 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "particle": "wynn/weaponskins/spear/scifi_spear_texture",
-    "texture": "wynn/weaponskins/spear/scifi_spear_texture",
-    "scifi_dagger_glow_animation_texture": "wynn/weaponskins/spear/scifi_spear_glow_animation_texture"
+    "particle": "skins/spear/scifi_spear_texture",
+    "texture": "skins/spear/scifi_spear_texture",
+    "scifi_dagger_glow_animation_texture": "skins/spear/scifi_spear_glow_animation_texture"
 },
 "elements": [ 
 {

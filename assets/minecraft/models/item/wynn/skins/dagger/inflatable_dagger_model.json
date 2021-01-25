@@ -1,8 +1,7 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "particle": "wynn/weaponskins/dagger/inflatable_dagger_texture",
-    "texture": "wynn/weaponskins/dagger/inflatable_dagger_texture"
+    "texture": "skins/dagger/inflatable_dagger_texture"
 },
 "elements": [ 
 {

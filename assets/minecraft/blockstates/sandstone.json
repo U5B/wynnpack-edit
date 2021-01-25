@@ -2,7 +2,7 @@
     "variants": {
         "normal": [
 		{ "model": "sandstone_normal" },
-		{ "model": "sandstone_normal1" }
+		{ "model": "variants/sandstone_0" }
 		]
     }
 }

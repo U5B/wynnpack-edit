@@ -1,5 +1,5 @@
 {
-    "parent": "builtin/generated",
+    "parent": "item/generated",
     "textures": {
         "layer0": "#texture"
     },
@@ -8,31 +8,6 @@
 	        "rotation": [ 0, 0, 0 ],
 	        "translation": [ 0, 0, -25 ],
 	        "scale": [ 2.2, 2.2, 2.2 ]
-	    },
-	    "ground": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "firstperson_righthand": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "firstperson_lefthand": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "thirdperson_righthand": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
-	    },
-	    "thirdperson_lefthand": {
-	    	"rotation": [ 0, 0, 0 ],
-	        "translation": [ 0, 0, 0 ],
-	        "scale": [ 0, 0, 0 ]
 	    }
 	}
 }

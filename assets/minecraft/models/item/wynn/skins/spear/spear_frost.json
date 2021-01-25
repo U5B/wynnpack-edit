@@ -1,10 +1,8 @@
 {
 	"__comment": "Designed by Bemacized with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/e_texture",
-		"spin_ani": "wynn/weapons/spear/merge",
-		"mesh_atlas": "wynn/weapons/spear/spear_frost"
+		"spin_ani": "skins/spear/merge",
+		"mesh_atlas": "skins/spear/spear_frost"
 	},
 	"elements": [
 		{

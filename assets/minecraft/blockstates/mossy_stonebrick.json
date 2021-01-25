@@ -1,10 +1,10 @@
 {
     "variants": {
         "normal": [
-		{ "model": "stonebrick_mossy", "weight": 50 },
-		{ "model": "stonebrick_mossy1", "weight": 60 },
-		{ "model": "stonebrick_mossy2", "weight": 50 },
-		{ "model": "stonebrick_mossy3", "weight": 5 }
-		]
+			{ "model": "stonebrick_mossy", "weight": 12 },
+			{ "model": "variants/mossy_stone_bricks_0", "weight": 12 },
+			{ "model": "variants/mossy_stone_bricks_1", "weight": 12 },
+			{ "model": "variants/mossy_stone_bricks_2", "weight": 4 }
+			]
     }
 }

@@ -1,9 +1,8 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "particle": "wynn/weaponskins/dagger/scifi_dagger_texture",
-    "texture": "wynn/weaponskins/dagger/scifi_dagger_texture",
-    "scifi_dagger_glow_animation_texture": "wynn/weaponskins/dagger/scifi_dagger_glow_animation_texture"
+    "texture": "skins/dagger/scifi_dagger_texture",
+    "scifi_dagger_glow_animation_texture": "skins/dagger/scifi_dagger_glow_animation_texture"
 },
 "elements": [ 
 {

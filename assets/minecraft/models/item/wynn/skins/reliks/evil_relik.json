@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "skins/dernicr_atlas",
-		"2": "skins/dernicsans",
-		"particle": "skins/voxels_atlas"
+		"2": "skins/dernicsans"
 	},
 	"elements": [
 		{
@@ -5926,7 +5925,16 @@
 			"translation": [0, 2.25, 1.5],
 			"scale": [1.6, 1.6, 1.6]
 		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.25, 1.5],
+			"scale": [1.6, 1.6, 1.6]
+		},
 		"firstperson_righthand": {
+			"rotation": [0, 18, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"firstperson_lefthand": {
 			"rotation": [0, 18, 0],
 			"translation": [0, 2.25, 0],
 			"scale": [1.6, 1.6, 1.6]

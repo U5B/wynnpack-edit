@@ -3,6 +3,7 @@
     "textures": {
         "layer0": "#texture"
     },
+	"gui_light": "front",
 	"display": {
 	    "gui": {
 	        "rotation": [ 0, 0, 0 ],

@@ -1,8 +1,7 @@
 {
-	"credit": "Made by Kiocifer",
+	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "skins/halfmoon_atlas",
-		"particle": "skins/halfmoon_atlas"
+		"0": "skins/halfmoon_atlas"
 	},
 	"elements": [
 		{
@@ -2668,7 +2667,15 @@
 			"translation": [0, 4, 1.75],
 			"scale": [1.7, 1.7, 1.7]
 		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4, 1.75],
+			"scale": [1.7, 1.7, 1.7]
+		},
 		"firstperson_righthand": {
+			"translation": [0, 3.75, 0.5],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"firstperson_lefthand": {
 			"translation": [0, 3.75, 0.5],
 			"scale": [1.6, 1.6, 1.6]
 		},

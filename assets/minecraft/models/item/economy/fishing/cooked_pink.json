@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "wynn/fishing/cooked_pink"
+        "layer0": "wynn/economy/fishing/cooked_pink"
     }
 }

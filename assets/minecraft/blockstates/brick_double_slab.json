@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "vanta_block" }
+        "normal": { "model": "variants/vanta_block" }
 	}
 }

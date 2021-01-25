@@ -1,8 +1,7 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "particle": "wynn/weaponskins/dagger/steampunk_dagger_texture",
-    "texture": "wynn/weaponskins/dagger/steampunk_dagger_texture"
+    "texture": "skins/dagger/steampunk_dagger_texture"
 },
 "elements": [ 
 {

@@ -1,9 +1,9 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "particle": "wynn/weaponskins/bow/scifi_bow_texture",
-    "texture": "wynn/weaponskins/bow/scifi_bow_texture",
-    "scifi_bow_glow_animation_texture": "wynn/weaponskins/bow/scifi_bow_glow_animation_texture"
+    "particle": "skins/bow/scifi_bow_texture",
+    "texture": "skins/bow/scifi_bow_texture",
+    "scifi_bow_glow_animation_texture": "skins/bow/scifi_bow_glow_animation_texture"
 },
 "elements": [ 
 {

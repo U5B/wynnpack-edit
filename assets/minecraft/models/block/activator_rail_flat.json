@@ -3,7 +3,7 @@
     "ambientocclusion": false,
     "textures": {
         "rail": "blocks/rail_activator",
-        "particle": "blocks/planks_oak"
+        "particle": "block_variants/oak_planks_flat"
     },
     "elements": [
         {

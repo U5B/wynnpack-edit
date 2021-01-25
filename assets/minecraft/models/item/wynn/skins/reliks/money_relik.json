@@ -1,8 +1,7 @@
 {
-	"credit": "Made by Kiocifer",
+	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "skins/goblet_atlas",
-		"particle": "skins/goblet_atlas"
+		"0": "skins/goblet_atlas"
 	},
 	"elements": [
 		{
@@ -2935,7 +2934,13 @@
 		"thirdperson_righthand": {
 			"translation": [0, 1, 1.5]
 		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1, 1.5]
+		},
 		"firstperson_righthand": {
+			"rotation": [7, 22, 0]
+		},
+		"firstperson_lefthand": {
 			"rotation": [7, 22, 0]
 		},
 		"gui": {

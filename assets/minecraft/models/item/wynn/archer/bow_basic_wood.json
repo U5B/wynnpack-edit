@@ -2,7 +2,6 @@
 	"credit": "Made by zeldahuman with Blockbench - https://blockbench.net",
 	"ambientocclusion": false,
 	"textures": {
-		"arrow": "wynn/weapons/archer/arrow",
 		"texture": "wynn/weapons/archer/basic_wooden"
 	},
 	"elements": [
@@ -86,36 +85,6 @@
 				"south": {"uv": [13, 6, 16, 10], "texture": "#texture"},
 				"west": {"uv": [0, 11, 3, 15], "texture": "#texture"},
 				"up": {"uv": [13, 7, 16, 10], "rotation": 90, "texture": "#texture"}
-			}
-		},
-		{
-			"name": "arrow",
-			"from": [6.9, 5.5, 0],
-			"to": [7, 10.5, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.4, 8, 8]},
-			"faces": {
-				"east": {"uv": [0, 0, 16, 5], "texture": "#arrow"},
-				"west": {"uv": [16, 0, 0, 5], "texture": "#arrow"}
-			}
-		},
-		{
-			"name": "arrow",
-			"from": [4.4, 8, 0],
-			"to": [9.4, 8.1, 16],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8.4, 8, 8]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 5], "rotation": 270, "texture": "#arrow"},
-				"down": {"uv": [16, 0, 0, 5], "rotation": 270, "texture": "#arrow"}
-			}
-		},
-		{
-			"name": "arrow-back",
-			"from": [4.4, 5.5, 14],
-			"to": [9.4, 10.5, 14.1],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.4, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 5, 5, 10], "texture": "#arrow"},
-				"south": {"uv": [0, 5, 5, 10], "texture": "#arrow"}
 			}
 		},
 		{
@@ -284,8 +253,8 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"gui": {
-			"rotation": [-120, -110, -110],
-			"translation": [1.5, 1, 0],
+			"rotation": [60, 50, -60],
+			"translation": [-1.5, 2, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"fixed": {
@@ -299,15 +268,10 @@
 			"name": "upper",
 			"origin": [8, 8, 8],
 			"children": [0, 1, 2, 3, 4, 5, 6]
-		},
-		{
-			"name": "arrow",
-			"origin": [8, 8, 8],
-			"children": [7, 8, 9]
-		}, 10, 11, 12,
+		}, 7, 8, 9,
 		{
 			"name": "lower",
 			"origin": [8, 8, 8],
-			"children": [13, 14, 15, 16, 17, 18, 19]
-		}, 20, 21]
+			"children": [10, 11, 12, 13, 14, 15, 16]
+		}, 17, 18]
 }

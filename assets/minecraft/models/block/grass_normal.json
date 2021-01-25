@@ -2,12 +2,12 @@
     "parent": "block/block",
 	"ambientocclusion": true,
     "textures": {
-        "particle": "blocks/dirt_top",
-        "bottom": "blocks/dirt_top",
+        "particle": "block_variants/dirt_top",
+        "bottom": "block_variants/dirt_top",
         "top": "blocks/grass_top",
         "side": "blocks/grass_side",
         "overlay": "blocks/grass_side_overlay",
-		"tallgrass": "blocks/tallgrass_bottom"
+		"tallgrass": "block_variants/grass_block_0"
     },
 	"elements": [
         {   "from": [ 0, 0, 0 ],

@@ -1,10 +1,16 @@
 {
     "variants": {
         "normal": [
-			{ "model": "molten_rock", "weight": 25 },
-			{ "model": "molten_rock1", "weight": 25 },
-			{ "model": "molten_rock2", "weight": 25 },
-			{ "model": "molten_rock3", "weight": 25 }
+			{ "model": "variants/molten_rock" },
+			{ "model": "variants/molten_rock_0" },
+			{ "model": "variants/molten_rock_1" },
+			{ "model": "variants/molten_rock_2" }
+		],
+		"all": [
+			{ "model": "variants/molten_rock" },
+			{ "model": "variants/molten_rock_0" },
+			{ "model": "variants/molten_rock_1" },
+			{ "model": "variants/molten_rock_2" }
 		]
     }
 }

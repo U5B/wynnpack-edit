@@ -1,7 +1,6 @@
 {
     "variants": {
-        "normal": [
-			{ "model": "stonebrick_dark"}
-			]
+        "normal":
+			{ "model": "variants/dark_stone_bricks" }
     }
 }

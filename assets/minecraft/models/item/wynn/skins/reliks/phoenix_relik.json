@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "skins/phoenix_atlas",
-		"particle": "skins/phoenix_atlas"
+		"0": "skins/phoenix_atlas"
 	},
 	"elements": [
 		{
@@ -5290,8 +5289,18 @@
 			"translation": [0, 2.75, 1],
 			"scale": [1.6, 1.6, 1.6]
 		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 2.75, 1],
+			"scale": [1.6, 1.6, 1.6]
+		},
 		"firstperson_righthand": {
 			"rotation": [0, -158, -6],
+			"translation": [3, 1.75, -0.25],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 20, 9],
 			"translation": [3, 1.75, -0.25],
 			"scale": [1.6, 1.6, 1.6]
 		},

@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by Kingmarnik with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
 "textures": {
-    "corrupted_spear": "wynn/weapons/spear/corrupted_spear",
-    "corrupted_spear_dark": "wynn/weapons/spear/corrupted_spear_dark"
+    "corrupted_spear": "skins/spear/corrupted_spear",
+    "corrupted_spear_dark": "skins/spear/corrupted_spear_dark"
 },
 "elements": [ 
 {

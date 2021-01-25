@@ -1,7 +1,7 @@
 {
     "parent": "item/gui/tile",
     "textures": {
-        "texture": "wynn/gui/tradeicn"
+        "texture": "wynn/gui/trade_icon"
     },
 	"display": {
 	    "gui": {

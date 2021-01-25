@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "wynn/string"
+        "layer0": "wynn/flora/items/string"
     }
 }

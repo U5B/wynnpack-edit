@@ -2,9 +2,9 @@
     "variants": {
         "normal": [
 		{ "model": "web" },
-		{ "model": "web1" },
-		{ "model": "web2" },
-		{ "model": "web3" }
+		{ "model": "variants/cobweb_0" },
+		{ "model": "variants/cobweb_1" },
+		{ "model": "variants/cobweb_2" }
 		]
     }
 }

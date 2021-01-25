@@ -1,9 +1,8 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "particle": "wynn/weaponskins/bow/steampunk_bow_texture",
-    "texture": "wynn/weaponskins/bow/steampunk_bow_texture",
-    "rainbow_dagger_animation_texture": "wynn/weaponskins/dagger/rainbow_dagger_animation_texture"
+    "texture": "skins/bow/steampunk_bow_texture",
+    "rainbow_dagger_animation_texture": "skins/dagger/rainbow_dagger_animation_texture"
 },
 "elements": [ 
 {

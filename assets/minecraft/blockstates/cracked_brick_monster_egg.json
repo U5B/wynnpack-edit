@@ -1,9 +1,9 @@
 {
     "variants": {
         "normal": [
-			{ "model": "stonebrick_cracked_dark" },
-			{ "model": "stonebrick_cracked_dark1" },
-			{ "model": "stonebrick_cracked_dark2" }
-		]
+			{ "model": "variants/dark_cracked_stone_bricks", "weight": 6 },
+			{ "model": "variants/dark_cracked_stone_bricks_0", "weight": 3 },
+			{ "model": "variants/dark_cracked_stone_bricks_1", "weight": 3 }
+			]
     }
 }

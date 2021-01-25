@@ -1,7 +1,6 @@
 {
     "variants": {
-        "normal": [
-			{ "model": "stonebrick_chiseled_dark"}
-			]
+        "normal":
+			{ "model": "variants/dark_chiseled_stone_bricks" }
     }
 }

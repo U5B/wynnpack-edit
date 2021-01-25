@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "particle": "wynn/weaponskins/spear/steampunk_spear_tex",
-    "texture": "wynn/weaponskins/spear/steampunk_spear_tex"
+    "particle": "skins/spear/steampunk_spear_tex",
+    "texture": "skins/spear/steampunk_spear_tex"
 },
 "elements": [ 
 {

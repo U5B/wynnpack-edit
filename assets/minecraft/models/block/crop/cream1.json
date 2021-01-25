@@ -1,7 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "wynn/flora/p_cream",
+        "particle": "wynn/flora/particle_0",
 		"crop": "wynn/flora/crops_cream"
     },
     "elements": [

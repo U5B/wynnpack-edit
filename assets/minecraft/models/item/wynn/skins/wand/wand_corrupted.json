@@ -1,9 +1,9 @@
 {
 "__comment": "Designed by Kingmarnik with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
 "textures": {
-    "texture": "blocks/obsidian",
-    "Orb": "wynn/weapons/wand/orb",
-    "OrbSwirl": "wynn/weaponskins/wand/orb_swirl"
+    "texture": "skins/obsidian",
+    "Orb": "skins/wand/orb",
+    "OrbSwirl": "skins/wand/orb_swirl"
 },
 "elements": [
 {

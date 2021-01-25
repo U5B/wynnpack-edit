@@ -1,7 +1,7 @@
 {
 "__comment": "Designed by FirecatHD",
 "textures": {
-    "texture": "wynn/weaponskins/dagger/dagger_banana_texture"
+    "texture": "skins/dagger/dagger_banana_texture"
 },
 "elements": [ 
 {

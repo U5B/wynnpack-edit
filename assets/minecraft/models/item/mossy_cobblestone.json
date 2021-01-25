@@ -1,6 +1,0 @@
-{
-    "parent": "item/wynn/accessory",
-    "textures": {
-        "layer0": "wynn/accessories/ring_multi1"
-    }
-}

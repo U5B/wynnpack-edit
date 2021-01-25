@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skins/steampunk_relik",
-		"particle": "skins/steampunk_relik"
+		"1": "skins/steampunk_relik"
 	},
 	"elements": [
 		{
@@ -651,7 +650,7 @@
 				"east": {"uv": [0, 0, 8, 4], "texture": "#1"},
 				"south": {"uv": [0, 0, 1, 4], "texture": "#1"},
 				"west": {"uv": [0, 0, 8, 4], "texture": "#1"},
-				"up": {"uv": [0, 0, 1, 8], "texture": "#1"},
+				"up": {"uv": [0, 0, 7.4, 0.4], "rotation": 90, "texture": "#1"},
 				"down": {"uv": [0, 0, 8, 1], "rotation": 90, "texture": "#1"}
 			}
 		},
@@ -660,9 +659,9 @@
 			"to": [8.1, 15.31832, 15.18165],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.01161, 13.20711, 15.87343]},
 			"faces": {
-				"north": {"uv": [0, 0, 1, 6], "rotation": 180, "texture": "#1"},
+				"north": {"uv": [0, 0, 5.2, 0.2], "rotation": 270, "texture": "#1"},
 				"east": {"uv": [0, 0, 6, 3], "rotation": 270, "texture": "#1"},
-				"south": {"uv": [0, 0, 1, 6], "texture": "#1"},
+				"south": {"uv": [0, 0, 5.2, 0.2], "rotation": 90, "texture": "#1"},
 				"west": {"uv": [0, 0, 6, 3], "rotation": 90, "texture": "#1"},
 				"up": {"uv": [0, 0, 1, 3], "rotation": 180, "texture": "#1"},
 				"down": {"uv": [0, 0, 1, 3], "texture": "#1"}
@@ -844,18 +843,16 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [180, -90, -90],
-			"translation": [0.38, 10.58, 3.02],
-			"scale": [2, 2, 2]
+			"translation": [0, 7.5, 2],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_righthand": {
 			"translation": [0, 3, -1],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-11, -81, 99],
-			"translation": [6.24, -3.59, -8.5],
-			"scale": [2.27, 2.27, 1.73]
+			"translation": [0, 3, -1],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
 			"rotation": [-9, 4, -13],

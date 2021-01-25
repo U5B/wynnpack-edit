@@ -2,7 +2,7 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-        "edge": "blocks/iron_bars_top",
+        "edge": "block_variants/iron_bars_top",
         "particle": "blocks/iron_bars",
         "bars": "blocks/iron_bars"
     },
