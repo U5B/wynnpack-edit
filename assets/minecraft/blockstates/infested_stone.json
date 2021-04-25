@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/stone_monster_egg", "weight": 30 },
+			{ "model": "block/stone_monster_egg1", "weight": 30 },
+			{ "model": "block/stone_monster_egg2", "weight": 50 }
+			]
+    }
+}

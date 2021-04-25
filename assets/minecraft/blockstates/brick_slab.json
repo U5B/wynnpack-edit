@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "type=bottom": [
+		{ "model": "block/half_slab_brick" },
+		{ "model": "block/half_slab_brick1" },
+		{ "model": "block/half_slab_brick2" }
+		],
+        "type=top": [
+		{ "model": "block/upper_slab_brick" },
+		{ "model": "block/upper_slab_brick1" },
+		{ "model": "block/upper_slab_brick2" }
+		],
+        "type=double": { "model": "block/vanta_block" }
+    }
+}

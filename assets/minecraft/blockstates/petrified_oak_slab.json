@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "type=double": [
+			{ "model": "block/molten_rock", "weight": 25 },
+			{ "model": "block/molten_rock1", "weight": 25 },
+			{ "model": "block/molten_rock2", "weight": 25 },
+			{ "model": "block/molten_rock3", "weight": 25 }
+		]
+    }
+}

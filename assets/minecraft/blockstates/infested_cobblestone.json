@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/cobblestone_dark", "weight": 50 },
+			{ "model": "block/cobblestone_dark1", "weight": 5 },
+			{ "model": "block/cobblestone_dark2", "weight": 5 },
+			{ "model": "block/cobblestone_dark3", "weight": 40 }
+			]
+    }
+}

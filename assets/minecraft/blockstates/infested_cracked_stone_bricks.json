@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/stonebrick_cracked_dark" },
+			{ "model": "block/stonebrick_cracked_dark1" },
+			{ "model": "block/stonebrick_cracked_dark2" }
+		]
+    }
+}

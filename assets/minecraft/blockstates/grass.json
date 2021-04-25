@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/grass" },
+		{ "model": "block/tall_grass_small" },
+		{ "model": "block/tall_grass_medium" },
+		{ "model": "block/tall_grass_tall" },
+		{ "model": "block/tall_grass_tallest" }
+		]
+    }
+}
